@@ -12,10 +12,10 @@ The links below help you learn from scratch:
 
 My hobbies:
 
-- reading
-- drawing
--  learning languages
--  coding
+- Reading
+- Drawing
+-  Learning Languages
+-  Coding
   
 
 My favorite Place to visit:("https://en.wikipedia.org/wiki/File:Colosseum_in_Rome,_Italy_-_April_2007.jpg" )
