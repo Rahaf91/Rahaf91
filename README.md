@@ -2,7 +2,7 @@
 ### Welcome to my Profile 👋
 
 ### My name is Rahaf, and I live in Germany. I'm currently a student of web development, passionate about crafting functional and visually appealing websites. My journey in tech is driven by a love for learning and continuous improvement.
-##Please note that I am currently working on my portfolio. A link to it will be added to my GitHub once it's completed.
+## Please note that I am currently working on my portfolio. A link to it will be added to my GitHub once it's completed.
 
 ## Hobbies
 
