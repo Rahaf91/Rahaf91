@@ -22,8 +22,6 @@
 One of my favorite places to visit is the iconic [Colosseum in Rome, Italy](https://en.wikipedia.org/wiki/File:Colosseum_in_Rome,_Italy_-_April_2007.jpg). This ancient amphitheater, with its rich history and magnificent architecture, never fails to inspire me. 🏛️
 
 ## Goals
-
-- **Short-term:** Complete the web development course and build a portfolio.
-- **Long-term:** Secure a position as a web developer and contribute to open-source projects.
+Secure a position as a web developer and contribute to open-source projects.
 
 
